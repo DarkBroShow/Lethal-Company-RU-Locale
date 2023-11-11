@@ -1,0 +1,15 @@
+  CONFIRM=  ПОДТВЕРДИТЬ
+Adjust screen brightness until the symbol on the right is barely visible.=Отрегулируйте яркость экрана, пока символ справа не станет едва виден.
+LAUNCH MODE=Режим запуска
+Gamma/Brightness:=Гамма/Яркость:
+(Recommended)=(Рекомендуется)
+  LAN=  LAN
+  Online=  Онлайн
+> LAN=> LAN
+> Online=> Онлайн
+> Quit=> Выйти
+> Join a crew=> Присоединиться к команде
+> Settings=> Настройки
+> Credits=> Создатели
+> Host=> Создать
+v40=V40
